@@ -28,11 +28,3 @@ más allá de lo que el trabajo del día a día permite.
 | **Base de datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Testing** | ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logoColor=white) |
 | **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
-## GitHub Stats 📊
-
-<div align="center">
-
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=JaviConde97&show_icons=true&theme=dark&hide_border=true&locale=es&count_private=true](https://github-readme-stats.vercel.app/api?username=JaviConde97&show_icons=true&theme=dark&hide_border=true&locale=es))
-
-</div>
