@@ -33,6 +33,6 @@ más allá de lo que el trabajo del día a día permite.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaviConde97&show_icons=true&theme=dark&hide_border=true&locale=es&count_private=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=JaviConde97&show_icons=true&theme=dark&hide_border=true&locale=es&count_private=true](https://github-readme-stats.vercel.app/api?username=JaviConde97&show_icons=true&theme=dark&hide_border=true&locale=es))
 
 </div>
