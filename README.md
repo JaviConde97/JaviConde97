@@ -7,16 +7,14 @@
 
 ## Sobre mí 👨‍💻
 
-Backend developer con experiencia en entornos enterprise, construyendo APIs robustas
-y sistemas en producción con Java y Spring Boot en **Indra**.
-Apasionado por el código limpio, la arquitectura bien pensada y seguir creciendo
-más allá de lo que el trabajo del día a día permite.
+Backend developer con experiencia real en entornos enterprise, construyendo APIs y microservicios en producción con Java y Spring Boot en Indra. Fuera del trabajo sigo aprendiendo por cuenta propia — porque lo que te enseña un proyecto propio no lo enseña ningún trabajo.
 
-- ☕ Backend developer especializado en **Java y Spring Boot**
-- 🏗️ Trabajando en arquitecturas de **microservicios en producción**
-- 🔐 Construyendo sistemas seguros con **Spring Security y JWT**
-- 📈 Ampliando el portafolio con proyectos propios end-to-end
-- 📍 Basado en Sevilla, España · Remoto
+- ☕ Backend developer especializado en Java y Spring Boot
+- 🏗️ Microservicios y APIs REST en producción (Indra)
+- 🔐 Spring Security · JWT · Sesión HTTP
+- 🌐 Full stack ligero con Thymeleaf — no solo backend puro
+- 🛠️ Portafolio propio: proyectos end-to-end desde cero
+
 
 ## Tech Stack 🛠️
 
